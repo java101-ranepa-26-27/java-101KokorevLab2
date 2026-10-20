@@ -24,7 +24,7 @@ public class Student {
         if (avg >= 4.5) {
             result = "Отличиник";
         } else if (avg >= 3.5) {
-            result = "Хорошист";
+            result = "хорошист";
         } else if (avg >= 2.5) {
             result = "Троечниик";
         } else  {
